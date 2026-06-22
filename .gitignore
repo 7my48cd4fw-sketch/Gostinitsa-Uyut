@@ -1,0 +1,21 @@
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+
+# База данных Access
+*.accdb
+*.mdb
+
+# Системные файлы
+Thumbs.db
+Desktop.ini
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
